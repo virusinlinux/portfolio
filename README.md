@@ -30,6 +30,6 @@
 
 
 
-<img align="left" alt="Realreyansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&hide_border=true" /> 
+<img align="left" alt="Realreyansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=real-reyansh&show_icons=true&hide_border=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact)](https://github.com/Anshika66-Gupta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real-reyansh&layout=compact)](https://github.com/real-reyansh/github-readme-stats)
