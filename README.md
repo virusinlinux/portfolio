@@ -4,7 +4,9 @@
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AnshikaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-36711419b/)](https://www.linkedin.com/in/anshika-gupta-36711419b/) [![Twitter Badge](https://img.shields.io/badge/-@Anshika_Gupta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ANSHIKA71688056)](https://twitter.com/ANSHIKA71688056)  [![Instagram Badge](https://img.shields.io/badge/-@AnshikaGupta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/anshikagupta4324/)](https://www.instagram.com/anshikagupta4324/)
+[![Linkedin Badge](https://img.shields.io/badge/-PriyanshuKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshukumardesigner/)](https://www.linkedin.com/in/priyanshukumardesigner/) 
+[![Twitter Badge](https://img.shields.io/badge/-@PriyanshuKumar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ANSHIKA71688056)](https://twitter.com/ANSHIKA71688056)  
+[![Behance Badge](https://img.shields.io/badge/-@PriyanshuKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.behance.net/reyanshstar)](https://www.behance.net/reyanshstar)
 
 - 🔭 I’m currently working on Javascript and Graphic Designing Creative Suite;
 - 🌱 I’m currently learning Android;
